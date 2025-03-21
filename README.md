@@ -3,8 +3,9 @@ I am a biologist/bioinformatician working on bacterial genomics.
 
 In particular, I have been working, for the last 10 years, within the genus Staphylococcus (at the French National Reference Center for Staphylococci).
 
-- 🔭 I’m currently working on : autaomated pipeline for virulence and resistance markers detection (nextflow implementation)
-- 🌱 I’m currently learning ... git and code versioning, python
+- 🔭 I’ve worked on on : automation of a  pipeline for virulence and resistance markers detection (nextflow implementation).
+- 🔭 I’m currently working on : bioinformatics applied to virology : SARS-CoV2, CMV, RSV , HSV, ...
+- 🌱 I’m currently learning ... git and code versioning (more in-depth), python, snakemake
 <!--
 **patmsim/patmsim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
